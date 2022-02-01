@@ -2,3 +2,5 @@
 /doc/*
 !/doc/tags
 !/doc/colortemplate.txt
+# ignore commit message
+.gitcommit
